@@ -1,6 +1,6 @@
 <h1>Predictive maintenance for milling machines</h1> 
 
-![alt text](pexels-daniel-smyth-83914874-10406128-1.jpg)
+![alt text](pexels-daniel-smyth-83914874-10406128.jpg)
 
 Kaggle dataset: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020 </br>
 Analysis inspired by: https://www.kaggle.com/code/zakikurdya/predictive-maintenance </br>
