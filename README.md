@@ -4,6 +4,7 @@
 
 Kaggle dataset: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020 </br>
 Analysis inspired by: https://www.kaggle.com/code/zakikurdya/predictive-maintenance </br>
+My project on Kaggle: https://www.kaggle.com/code/niklasboeckmann/predicting-machine-failures-with-ml </br>
 
 Goal: Predict machine failures of milling machines
 
